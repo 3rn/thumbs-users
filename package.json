@@ -1,0 +1,11 @@
+{
+  "name": "thumbs-users",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ntoung/thumbs-users.git",
+  "author": "ntoung <nmtoung@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.14.1"
+  }
+}
