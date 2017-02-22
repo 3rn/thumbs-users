@@ -1,5 +1,5 @@
 const pg = require('pg');
-const config = require('../../db/config');
+const config = require('./config');
 const connectionString = process.env.DATABASE_URL || config.url;
 
 const client = new pg.Client(connectionString);
